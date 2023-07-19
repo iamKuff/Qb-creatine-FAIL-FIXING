@@ -14,4 +14,6 @@ __Items.lua__
     ["shouldClose"] = false,
     ["combinable"] = nil,
     ["description"] = "Creatine Tablets",
-},```
+},
+
+```

@@ -1,7 +1,7 @@
 # Qb-creatine
 Creatine Tablets Script For Qb-Core Framework That Allows You To Take/Eat Them (With Animations) And Gain Strength.
 
-__**TODO**__
+__**WHAT YOU NEED TO-DO**__
 
 __Items.lua__ ([QB]/qb-core/shared/items.lua)
 ```["creatine_tablets"] = {
@@ -18,7 +18,7 @@ __Items.lua__ ([QB]/qb-core/shared/items.lua)
 },
 
 ```
-__Image__([QB]/qb-inventory/HTML/Images)
+__Image__ ([QB]/qb-inventory/HTML/Images)
 ```creatine_tablets.png
 
 ```

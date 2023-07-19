@@ -18,5 +18,7 @@ __Items.lua__ ([QB]/qb-core/shared/items.lua)
 },
 
 ```
-__Image__([QB]/qb-inventory/HTML/Images/)
+__Image__([QB]/qb-inventory/HTML/Images)
 ```creatine_tablets.png
+
+```

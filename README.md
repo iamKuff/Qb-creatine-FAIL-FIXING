@@ -18,5 +18,5 @@ __Items.lua__ ([QB]/qb-core/shared/items.lua)
 },
 
 ```
-__Image__ ([QB]/qb-inventory/HTML/Images)
-#PASTE IMAGE INTO THE DIRECTORY ABOVE PLEASE...
+__Image__
+#PASTE IMAGE INTO THIS DIRECTORY PLEASE: ([QB]/qb-inventory/HTML/Images)

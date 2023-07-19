@@ -19,6 +19,4 @@ __Items.lua__ ([QB]/qb-core/shared/items.lua)
 
 ```
 __Image__ ([QB]/qb-inventory/HTML/Images)
-```creatine_tablets.png
-
-```
+#PASTE IMAGE INTO THE DIRECTORY ABOVE PLEASE...

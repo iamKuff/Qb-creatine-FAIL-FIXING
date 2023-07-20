@@ -1,4 +1,4 @@
-# Qb-creatine
+# Qb-creatine [FAIL]
 Creatine Tablets Script For Qb-Core Framework That Allows You To Take/Eat Them (With Animations) And Gain Strength.
 
 __**WHAT YOU NEED TO-DO**__
